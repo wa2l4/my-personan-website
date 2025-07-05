@@ -7,7 +7,7 @@ This project was created as part of my training at **Smart Methods**. It showcas
 
 ## 🚀 Live Website
 
-[🔗](https://wa2l4.github.io/my-personan-website/)
+🔗  https://wa2l4.github.io/my-personan-website/
 ---
 
 ## 📁 Project Structure
